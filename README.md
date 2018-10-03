@@ -1,4 +1,4 @@
-# biocrust restoration literature live review
+# biocrust restoration literature
 
 `literature.csv` contains annotated references
 
